@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+Logistic Regression
+Naive Bayes
+Support Vector Machine
+NLP
